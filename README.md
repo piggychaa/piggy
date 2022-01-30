@@ -1,13 +1,10 @@
 #     𝙿𝙸𝙶𝙶𝚈 - 𝚄𝙱𝙾𝚃
 
-
 </p>
- Repositori ini Mengandung unsur babi 🐷, 
+  𝗣𝗜𝗚𝗚𝗬 - 𝗨𝗦𝗘𝗥𝗕𝗢𝗧
+ Repositori ini Mengandung unsur babi 🐷
+
  
-
-<p align="center">
-  <img src="https://telegra.ph/file/fd08937c4ae6cb1303731.jpg">
-</p>
 
 ## <p align="center">DEPLOY TO HEROKU</p>
 
@@ -27,6 +24,7 @@
 ##
 
 🔰 **THANKS YOU TO**
+    TERIMA KASIH YG BESAR UNTUK SKYZU YANG UDAH MENGIJINKAN KAMI UNTUK CLONE REPO 
 *   [Sendi](https://github.com/SendiAp/Rose-Userbot)   Rose-Userbot
 *   [Risman](https://github.com/mrismanaziz/Man-Userbot)   Man - Userbot
 *   [Skyzu](https://github.com/Skyzu/skyzu-userbot)   skyzu-userbot
