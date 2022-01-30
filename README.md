@@ -1,8 +1,9 @@
 #     𝙿𝙸𝙶𝙶𝚈 - 𝚄𝙱𝙾𝚃
 
 </p>
-  𝗣𝗜𝗚𝗚𝗬 - 𝗨𝗦𝗘𝗥𝗕𝗢𝗧
- Repositori ini Mengandung unsur babi 🐷
+
+    𝗣𝗜𝗚𝗚𝗬 - 𝗨𝗦𝗘𝗥𝗕𝗢𝗧
+    Repositori ini Mengandung unsur babi 🐷
 
  
 
